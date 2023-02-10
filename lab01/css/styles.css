@@ -101,7 +101,7 @@ a{
 }
 
 #dont{
-    font-size: 20rem;
+    font-size: 10rem;
 }
 
 @media screen and (min-width : 750px) {
